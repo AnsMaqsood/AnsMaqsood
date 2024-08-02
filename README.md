@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AnsMaqsood
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data Analytics projects
-- 📫 How to reach me https://www.linkedin.com/in/data-analyst5/
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Front-end Web Development
+- 💞️ I’m looking to collaborate on Web Development projects
+- 📫 How to reach me https://www.linkedin.com/in/frontend-developer-/
 
 <!---
 AnsMaqsood/AnsMaqsood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
