@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AnsMaqsood
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-end Web Development
+- 🌱 I’m currently a Front-end Web Developer
 - 💞️ I’m looking to collaborate on Web Development projects
-- 📫 How to reach me https://www.linkedin.com/in/frontend-developer-/
+- 📫 How to reach me [https://www.linkedin.com/in/ans-maqsood-frontend-developer/]
 
 <!---
 AnsMaqsood/AnsMaqsood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
